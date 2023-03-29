@@ -1,0 +1,17 @@
+{
+  "configurations": [
+    {
+      "type": "java",
+      "name": "pruebaExcepcion",
+      "request": "launch",
+      "mainClass": "pruebaExcepcion",
+      "projectName": "20230328_DAM1V_Alvaro_ae964c3c"
+    },
+    {
+      "type": "java",
+      "name": "Launch with Arguments Prompt",
+      "request": "launch",
+      "mainClass": ""
+    }
+  ]
+}

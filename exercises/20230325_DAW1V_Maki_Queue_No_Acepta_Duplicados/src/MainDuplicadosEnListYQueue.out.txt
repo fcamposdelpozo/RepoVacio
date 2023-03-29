@@ -1,0 +1,19 @@
+$ java MainDuplicadosEnListYQueue 
+Iteramos sobre los elementos de la lista:
+[listaIntegers, posicion 0]: 2
+[listaIntegers, posicion 1]: 4
+[listaIntegers, posicion 2]: 1
+[listaIntegers, posicion 3]: 3
+[listaIntegers, posicion 4]: 5
+Iteramos sobre los elementos de la cola:
+[colaIntegers, posicion 0]: 1
+[colaIntegers, posicion 1]: 2
+[colaIntegers, posicion 2]: 3
+[colaIntegers, posicion 3]: 4
+[colaIntegers, posicion 4]: 5
+[colaIntegers, posicion 5]: 1
+[colaIntegers, posicion 6]: 2
+[colaIntegers, posicion 7]: 3
+[colaIntegers, posicion 8]: 4
+[colaIntegers, posicion 9]: 5
+

@@ -1,0 +1,13 @@
+$ java MainStack "Hola qué tal?"
+Hola qué tal?
+cadena invertida: ?lat éuq aloH
+cadena sin invertir: Hola qué tal?
+Pila Vacia
+|==> EXCEPCION CAPTURADA: java.util.NoSuchElementException
+|==> nseExc.printStackTrace():
+java.util.NoSuchElementException
+        at java.base/java.util.LinkedList.removeFirst(LinkedList.java:274)
+        at java.base/java.util.LinkedList.remove(LinkedList.java:689)
+        at MainStack.main(MainStack.java:30)
+
+

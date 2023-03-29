@@ -1,0 +1,17 @@
+{
+  "configurations": [
+    {
+      "type": "java",
+      "name": "MainPizzeria",
+      "request": "launch",
+      "mainClass": "MainPizzeria",
+      "projectName": "Pizzeria_dc3c3fe2"
+    },
+    {
+      "type": "java",
+      "name": "Launch with Arguments Prompt",
+      "request": "launch",
+      "mainClass": ""
+    }
+  ]
+}
